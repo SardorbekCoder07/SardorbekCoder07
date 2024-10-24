@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://t.me/Tuit_ki_student" target="_blank">Abdul Aziz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hi there, I'm <a href="https://t.me/Tuit_ki_student" target="_blank">Sardorbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ---
 
