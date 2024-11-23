@@ -1,5 +1,7 @@
 # Hi... I'm Sardorbek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+### GitHub Profile Insights
+![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sardorbek&show_icons=true&theme=radical)
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
 - Open to project collaborations
