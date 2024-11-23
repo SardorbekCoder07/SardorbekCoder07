@@ -7,7 +7,7 @@
 
 <!-- [![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07) -->
 
-![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardSardorbekCoder07orbek&show_icons=true&theme=radical)
+![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorbekCoder07&show_icons=true&theme=radical)
 
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
