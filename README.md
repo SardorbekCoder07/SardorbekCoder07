@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
 
-[![Sardorbek's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SardorbekCoder047)](https://github.com/SardorbekCoder07)
+[![Sardorbek's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SardorbekCoder047)](https://wakatime.com/@SardorbekCoder047)
 
 
 
