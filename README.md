@@ -9,6 +9,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
 
+[![Sardorbek's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SardorbekCoder07)](https://github.com/SardorbekCoder07)
+
+
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
 - Open to project collaborations
