@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sardorbek&layout=compact)
 
+[![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sardorbek&theme=github)](https://github.com/Sardorbek)
+
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
 - Open to project collaborations
