@@ -5,9 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorbekCoder07&layout=compact)
 
-     [![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07)
+[![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SardorbekCoder07&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=blueviolet)
 
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
