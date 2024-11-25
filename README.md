@@ -45,16 +45,10 @@ As a **Front-End Developer**, I contribute to one of Uzbekistan's leading compan
 
 ### GitHub Profile Insights
 
-![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorbekCoder07&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorbekCoder07&layout=compact)
 
 [![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
-
-
-[![Contributions Calendar](https://github-contributions.vercel.app/api/v1/SardorbekCoder07)](https://github.com/SardorbekCoder07)
 
 
 <p align="center">
