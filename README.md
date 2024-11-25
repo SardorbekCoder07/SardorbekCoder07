@@ -39,7 +39,7 @@ As a **Front-End Developer**, I contribute to one of Uzbekistan's leading compan
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Sardorbek's current streak](https://streak-stats.demolab.com/?user=SardorbekCoder07&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Sardorbek's current streak](https://streak-stats.demolab.com/?user=SardorbekCoder07&count_private=true&theme=green&title_color=00b3ff)](#)
 
 
 
