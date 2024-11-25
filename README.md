@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
 
 
-[![Contributions Calendar](https://github-contributions.vercel.app/api/v1/<your-github-username>)](https://github.com/<your-github-username>)
+[![Contributions Calendar](https://github-contributions.vercel.app/api/v1/SardorbekCoder07)](https://github.com/SardorbekCoder07)
 
 
 
