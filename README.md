@@ -1,18 +1,5 @@
 # Hi... I'm Sardorbek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-### GitHub Profile Insights
-![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorbekCoder07&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorbekCoder07&layout=compact)
-
-[![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
-
-
-[![Contributions Calendar](https://github-contributions.vercel.app/api/v1/SardorbekCoder07)](https://github.com/SardorbekCoder07)
-
-
 
 As a **Front-End Developer**, I contribute to one of Uzbekistan's leading companies, **Sfera IT Solutions**. Additionally, I play a vital role at **Sfera IT Academy**, where I help shape innovative web solutions and support the development of future talent.
 - Open to project collaborations
@@ -54,7 +41,25 @@ As a **Front-End Developer**, I contribute to one of Uzbekistan's leading compan
 
 [![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+
+
+### GitHub Profile Insights
+
+![Sardorbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorbekCoder07&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorbekCoder07&layout=compact)
+
+[![Sardorbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardorbekCoder07&theme=github)](https://github.com/SardorbekCoder07)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sardorbek&color=green)
+
+
+[![Contributions Calendar](https://github-contributions.vercel.app/api/v1/SardorbekCoder07)](https://github.com/SardorbekCoder07)
+
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
 
